@@ -1,0 +1,23 @@
+Stanica	Sliv	City	Age	Datum	Vodostaj
+Aaron Garrett	Assistant Professor	La Esperanza	41	06/15/2011	$368040.04
+Adam Chavez	Financial Analyst	Jinzhuang	47	05/02/2013	$218388.68
+Adam Foster	Associate Professor	Ciro Redondo	42	12/25/2016	$133227.66
+Adam Harris	Social Worker	El Hermel	32	04/23/2014	$239684.11
+Adam West	General Manager	Da’an	68	05/02/2011	$244078.41
+Adam Wright	Occupational Therapist	Buenos Aires	59	05/08/2012	$149809.59
+Alan Carpenter	Financial Advisor	Xingguo	38	06/02/2016	$376233.87
+Alan Harper	Internal Auditor	Suyang	26	11/11/2014	$308385.59
+Alan Larson	Social Worker	Philadelphia	49	10/16/2015	$89556.47
+Alan Lewis	Chief Design Engineer	Yuxi	54	08/11/2011	$200452.23
+Alan Price	Mechanical Systems Engineer	Kuala Terengganu	53	05/22/2016	$334998.02
+Albert Gordon	Quality Engineer	Mayskiy	53	04/26/2011	$93572.67
+Alice Matthews	Registered Nurse	Shikārpur	28	11/11/2010	$66930.52
+Amanda Hawkins	Actuary	Cibodas	47	01/15/2014	$62782.24
+Amy Garza	Design Engineer	Candijay	37	06/23/2013	$239303.53
+Amy Hicks	Geological Engineer	Otun	22	04/04/2010	$309407.46
+Amy Montgomery	Senior Editor	Itabaianinha	47	10/15/2012	$207583.84
+Amy Simmons	Geological Engineer	Funchalinho	60	05/17/2013	$148631.24
+Amy Stewart	Software Engineer IV	Bechyně	42	06/27/2012	$338761.59
+Andrea Evans	Senior Cost Accountant	Kragujevac	48	08/31/2011	$307271.68
+Andrew Flores	Registered Nurse	Bobai	26	06/09/2016	$217437.13
+Andrew Thompson	Biostatistician III	Nanyang	41	06/06/2010	$46238.59
